@@ -1,6 +1,6 @@
-import React from "react";
-import { users } from "../users";
-import UserProfile from "./UserProfile";
+import React from 'react';
+import { users } from './users';
+import UserProfile from './UserProfile';
 
 const UsersList = () => {
   return (

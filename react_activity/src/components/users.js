@@ -24,7 +24,7 @@ export const users = [
       school: "GHI University",
       email: "sam.smith@GHI.com",
       profilePicture: "https://picsum.photos/200/300",
-      classLevel: "Freshman"
+      classLevel: "Freshmen"
     },
     {
       username: "Staurt_guns",
@@ -33,7 +33,7 @@ export const users = [
       school: "JKL University",
       email: "stuart.gunner@JKL.com",
       profilePicture: "https://picsum.photos/200/300",
-      classLevel:"Freshman"
+      classLevel:"Freshmen"
     },
     {
       username: "tom_jerry",
